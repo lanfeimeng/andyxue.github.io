@@ -1,4 +1,6 @@
 .gitignore
 
 #IDE files
+.idea
+.idea/*
 .idea/*/*
